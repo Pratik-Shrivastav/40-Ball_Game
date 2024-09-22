@@ -1,0 +1,17 @@
+.circle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 4rem;
+    width: 4rem;
+    border-radius: 50%;
+    background-color: blue;
+    color: white;
+}
+
+.mainDiv{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap:1rem;
+}
